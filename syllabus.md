@@ -8,22 +8,20 @@ permalink: /syllabus/
 
 |Week|Saturday|Monday |    Lecture Topic                  | HW Topic                       |HW Release|   TA1    |    TA2     |Occasion|
 |:--:|:------:|:-----:|:---------------------------------:|:------------------------------:|:------:|:----------:|:----------:|--------|
-| 1  |  6/30  |  7/01 | Algorithmic Warmup                | a+b: introducing the framework | A1     |  Mahmoudi  | Mirshekari | |
-| 2  |  7/6   |  7/08 | Greedy Algorithms                 | Programming  Challenges        | A2, W1 |  Yalsavar  | Moradi     | |
-| 3  |  7/13  |  7/15 | Divide and Conquer                | Algorithmic Warmup             | A3     |  Pirhadi   | Mirzaei    | |
-| 4  |  7/20  |  7/22 | Dynamic Programming 1             | Greedy Algorithms              | A4     |Abdollahpour| Kodeiri    | |
-| 5  |  7/27  |  7/29 | Dynamic Programming 2             | Programming Exam 1             | E1     |  Ghaderan  | Moghadami  | Saturday Off |
-| 6  |  8/04  |  8/06 | Dynamic Programming 3             | Divide and Conquer             | A5, W2 |  Mahmoudi  | Mirshekari | Sunday & Tuesday Off |
-| 7  |  8/11  |  8/13 | Basic Data Structures             | Dynamic Programming 1          | A6     |  Yalsavar  | Moradi     | Wednesday Off |
-| 8  |  8/18  |  8/20 | Dynamic Array + Amortized Analysis| Dynamic Programming 2          | A7     |  Pirhadi   | Mirzaei    | Basic Sceince Midterms |
-| 9  |  8/25  |  8/27 | Priority Queue and Disjoint Set   | Basic Data Structures          | A8     |Abdollahpour| Kodeiri    | Basic Sceince Midterms |
-| 10 |  9/02  |  9/04 | Hashing                           | -                              | -      |  Ghaderan  | Moghadami  | Basic Sceince Midterms |
-| 11 |  9/09  |  9/11 | BST 1                             | Priority Queue and Disjoint Set| A9     |  Ghaderan  | Moghadami  |
-| 12 |  9/16  |  9/18 | BST 2                             | Hash Table and Hash Functions  | A10    |  Mahmoudi  | Mirshekari | |
-| 13 |  9/23  |  9/25 | Graph Decomposition 1             | BST                            | A11    |  Yalsavar  | Moradi     | |
-| 14 |  9/30  | 10/02 | Graph Decomposition 2             | Programming Exam 2             | E2     |  Pirhadi   | Mirzaei    | |
-| 15 | 10/07  | 10/09 | Red-black Tree, B-Tree            | Graph1                         | A12, W3|Abdollahpour| Kodeiri    | |
-
+| 2  |  7/05  |  7/07 | Introduction                      | a+b: introducing the framework | A1     |  Mirzajani | X | |
+| 3  |  7/12  |  7/14 | Algorithmic Warmup                | Programming  Challenges        | A2     |  Sheikhi   | Y | |
+| 4  |  7/19  |  7/21 | Greedy Algorithms                 | Algorithmic Warmup             | A3, W1 |  Hosseini  | Namazi| |
+| 5  |  7/26  |  7/28 | Divide and Conquer                | Greedy Algorithms              | A4     |  Zeynolabedin | Rostamkhani | Saturaday Off|
+| 6  |  8/03  |  8/05 | Dynamic Programming 1             | Divide and Conquer             | A5     | Lotfollahi | Nazarzadeh | |
+| 7  |  8/10  |  8/12 | Dynamic Programming 2             | Programming Exam 1             | E1     |  Mirzajani | X   | |
+| 8  |  8/17  |  8/19 | Dynamic Programming 3             | Dynamic Programming 1          | A6, W2 |  Sheikhi   | Y  | |
+| 9  |  8/24  |  8/26 | Basic Data Structures             | Dynamic Programming 2          | A7     |  Hosseini | Namazi     | |
+| 10 |  9/01  |  9/03 | Dynamic Array + Amortized Analysis| Basic Data Structures          | A8     |  Zeynolabedin | Rostamkhani     | |
+| 11 |  9/08  |  9/10 | Priority Queue and Disjoint Set   | Priority Queue and Disjoint Set| A9     | Lotfollahi | Nazarzadeh  | |
+| 12 |  9/15  |  9/17 | Hashing                           | Hash Table and Hash Functions  | A10    |  Mirzajani | X  | |
+| 13 |  9/22  |  9/24 | BST 1, RB Tree                    | BST                            | A11    |  Sheikhi   | Y    | |
+| 14 |  9/29  | 10/01 | BST 2, B-Tree                     | Graph1                         | A12,W3 |  Hosseini | Namazi | |
+| 15 | 10/06  | 10/08 | Graph Decomposition 1             | Programming Exam 2             | E2     |  Zeynolabedin | Rostamkhani    | |
 
   * A*: Programming Assignments
   * E*: Programming Exams
