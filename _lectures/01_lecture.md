@@ -8,3 +8,4 @@ slides: https://drive.iust.ac.ir/index.php/s/cAmt9OxowvKMgX0/download?path=%2FSl
 tldr: "We talked about the philosophy of our approach to Data Strcture and Algorithms, Flipped Classroom, organization of our course, ..."
 #thumbnail: /static_files/presentations/lec.jpg
 ---
+https://web.microsoftstream.com/video/951139f2-d8c3-4ac3-87b4-c7b0b6e7d56f

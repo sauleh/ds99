@@ -24,20 +24,32 @@ teaching_assistants:
   - name: Yasaman Lotfollahi
     profile_pic: /_images/avatar.png
 
-#  - name: Melika Nobakhtian
-#    profile_pic: /_images/avatar.png
-
   - name: Negar Zeynolabedin
     profile_pic: /_images/avatar.png
+
+  - name: Ghazaleh Mahmoudi
+    profile_pic: /_images/avatar.png
+
+  - name: Melika Nobakhtian
+    profile_pic: /_images/avatar.png
+
+  - name: Sara Kodeiri
+    profile_pic: /_images/sara-kodeiri.jpg
+
+  - name: Sepehr Babapour
+    profile_pic: /_images/babapour.jpg
+
+  - name: Melika Nobakhtian
+    profile_pic: /_images/avatar.png
+
+  - name: Maryam S. Hashemi
+    profile_pic: /_images/hashemi.jpg
 
 #  - name: Motahare Mirzaei
 #    profile_pic: /_images/avatar.png
 
 #  - name: Mahdi Moghadami
 #    profile_pic: /_images/mahdi-moghaddami.jpg
-
-#  - name: Maryam S. Hashemi
-#    profile_pic: /_images/hashemi.jpg
 
 #  - name: Mohammad Javad Mirshekari
 #    profile_pic: /_images/keyvan-mirshekari.jpg
