@@ -8,18 +8,18 @@ permalink: /syllabus/
 
 |Week|Saturday|Monday |    Lecture Topic                  | HW Topic                       |HW Release|   TA1    |    TA2     |Occasion|
 |:--:|:------:|:-----:|:---------------------------------:|:------------------------------:|:------:|:----------:|:----------:|--------|
-| 2  |  7/05  |  7/07 | Introduction                      | a+b: introducing the framework | A1     |  Mirzajani | X | |
-| 3  |  7/12  |  7/14 | Algorithmic Warmup                | Programming  Challenges        | A2     |  Sheikhi   | Y | |
+| 2  |  7/05  |  7/07 | Introduction                      | a+b: introducing the framework | A1     |  Mirzajani | Hashemi | |
+| 3  |  7/12  |  7/14 | Algorithmic Warmup                | Programming  Challenges        | A2     |  Sheikhi   | Nobakhtian | |
 | 4  |  7/19  |  7/21 | Greedy Algorithms                 | Algorithmic Warmup             | A3, W1 |  Hosseini  | Namazi| |
 | 5  |  7/26  |  7/28 | Divide and Conquer                | Greedy Algorithms              | A4     |  Zeynolabedin | Rostamkhani | Saturaday Off|
 | 6  |  8/03  |  8/05 | Dynamic Programming 1             | Divide and Conquer             | A5     | Lotfollahi | Nazarzadeh | |
-| 7  |  8/10  |  8/12 | Dynamic Programming 2             | Programming Exam 1             | E1     |  Mirzajani | X   | |
-| 8  |  8/17  |  8/19 | Dynamic Programming 3             | Dynamic Programming 1          | A6, W2 |  Sheikhi   | Y  | |
+| 7  |  8/10  |  8/12 | Dynamic Programming 2             | Programming Exam 1             | E1     |  Mirzajani | Hashemi   | |
+| 8  |  8/17  |  8/19 | Dynamic Programming 3             | Dynamic Programming 1          | A6, W2 |  Sheikhi   | Nobakhtian  | |
 | 9  |  8/24  |  8/26 | Basic Data Structures             | Dynamic Programming 2          | A7     |  Hosseini | Namazi     | |
 | 10 |  9/01  |  9/03 | Dynamic Array + Amortized Analysis| Basic Data Structures          | A8     |  Zeynolabedin | Rostamkhani     | |
 | 11 |  9/08  |  9/10 | Priority Queue and Disjoint Set   | Priority Queue and Disjoint Set| A9     | Lotfollahi | Nazarzadeh  | |
-| 12 |  9/15  |  9/17 | Hashing                           | Hash Table and Hash Functions  | A10    |  Mirzajani | X  | |
-| 13 |  9/22  |  9/24 | BST 1, RB Tree                    | BST                            | A11    |  Sheikhi   | Y    | |
+| 12 |  9/15  |  9/17 | Hashing                           | Hash Table and Hash Functions  | A10    |  Mirzajani | Hashemi  | |
+| 13 |  9/22  |  9/24 | BST 1, RB Tree                    | BST                            | A11    |  Sheikhi   | Nobakhtian    | |
 | 14 |  9/29  | 10/01 | BST 2, B-Tree                     | Graph1                         | A12,W3 |  Hosseini | Namazi | |
 | 15 | 10/06  | 10/08 | Graph Decomposition 1             | Programming Exam 2             | E2     |  Zeynolabedin | Rostamkhani    | |
 
