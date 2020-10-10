@@ -9,6 +9,9 @@ teaching_assistants:
   - name: Hadi Sheikhi
     profile_pic: /_images/sheikhi.jpg
 
+  - name: Sara Kodeiri
+    profile_pic: /_images/sara-kodeiri.jpg
+
   - name: Sohrab Namazi
     profile_pic: /_images/namazi.jpg
 
@@ -29,9 +32,6 @@ teaching_assistants:
 
   - name: Melika Nobakhtian
     profile_pic: /_images/avatar.png
-
-  - name: Sara Kodeiri
-    profile_pic: /_images/sara-kodeiri.jpg
 
   - name: Sepehr Babapour
     profile_pic: /_images/babapour.jpg
