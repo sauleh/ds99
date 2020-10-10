@@ -9,9 +9,6 @@ teaching_assistants:
   - name: Hadi Sheikhi
     profile_pic: /_images/sheikhi.jpg
 
-  - name: Mohammad Mostafa Rostamkhani
-    profile_pic: /_images/rostamkhani.jpg
-
   - name: Sohrab Namazi
     profile_pic: /_images/namazi.jpg
 
@@ -44,6 +41,9 @@ teaching_assistants:
 
   - name: Maryam S. Hashemi
     profile_pic: /_images/hashemi.jpg
+
+  - name: Mostafa Rostamkhani
+    profile_pic: /_images/rostamkhani.jpg
 
 #  - name: Motahare Mirzaei
 #    profile_pic: /_images/avatar.png
