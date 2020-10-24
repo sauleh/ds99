@@ -8,12 +8,12 @@ permalink: /syllabus/
 
 |Week|Saturday|Monday |    Lecture Topic                  | HW Topic                       |HW Release|   TA1    |    TA2     |Occasion|
 |:--:|:------:|:-----:|:---------------------------------:|:------------------------------:|:------:|:----------:|:----------:|--------|
-| 2  |  7/05  |  7/07 | Introduction                      | a+b: introducing the framework | A1     |  Mirzajani | Hashemi | |
-| 3  |  7/12  |  7/14 | Algorithmic Warmup                | Programming  Challenges        | A2     |  Sheikhi   | Nobakhtian | |
-| 4  |  7/19  |  7/21 | Greedy Algorithms                 | Algorithmic Warmup             | A3, W1 |  Hosseini  | Namazi| |
-| 5  |  7/26  |  7/28 | Divide and Conquer                | Greedy Algorithms              | A4     |  Zeynolabedin | Rostamkhani | Saturaday Off|
-| 6  |  8/03  |  8/05 | Dynamic Programming 1             | Divide and Conquer             | A5     | Lotfollahi | Nazarzadeh | |
-| 7  |  8/10  |  8/12 | Dynamic Programming 2             | Programming Exam 1             | E1     |  Mirzajani | Hashemi   | |
+| 2  |  7/05  |  7/07 | [Introduction](https://drive.iust.ac.ir/index.php/s/cAmt9OxowvKMgX0/download?path=%2FCoursera%2F1-AlgorithmToolBox%2FVideos&files=01-Programming_Challenges.zip)                      | a+b: introducing the framework | A1     |  Mirzajani | Hashemi | |
+| 3  |  7/12  |  7/14 | [Algorithmic Warmup](https://drive.iust.ac.ir/index.php/s/cAmt9OxowvKMgX0/download?path=%2FCoursera%2F1-AlgorithmToolBox%2FVideos&files=02-Algorithmic_Warmup.zip)                | Programming  Challenges        | A2     |  Sheikhi   | Nobakhtian | |
+| 4  |  7/19  |  7/21 | [Greedy Algorithms](https://drive.iust.ac.ir/index.php/s/cAmt9OxowvKMgX0/download?path=%2FCoursera%2F1-AlgorithmToolBox%2FVideos&files=03-Greedy_Algorithms.zip)                 | Algorithmic Warmup             | A3, W1 |  Hosseini  | Namazi| |
+| 5  |  7/26  |  7/28 | [Divide and Conquer](https://drive.iust.ac.ir/index.php/s/cAmt9OxowvKMgX0/download?path=%2FCoursera%2F1-AlgorithmToolBox%2FVideos&files=04-Divide-and-Conquer.zip)                | Greedy Algorithms              | A4     |  Zeynolabedin | Rostamkhani | Saturaday Off|
+| 6  |  8/03  |  8/05 | [Dynamic Programming 1](https://drive.iust.ac.ir/index.php/s/cAmt9OxowvKMgX0/download?path=%2FCoursera%2F1-AlgorithmToolBox%2FVideos&files=05-Dynamic_Programming_1.zip)            | Divide and Conquer             | A5     | Lotfollahi | Nazarzadeh | |
+| 7  |  8/10  |  8/12 | [Dynamic Programming 2](https://drive.iust.ac.ir/index.php/s/cAmt9OxowvKMgX0/download?path=%2FCoursera%2F1-AlgorithmToolBox%2FVideos&files=06-Dynamic_Programming_2.zip)             | Programming Exam 1             | E1     |  Mirzajani | Hashemi   | |
 | 8  |  8/17  |  8/19 | Dynamic Programming 3             | Dynamic Programming 1          | A6, W2 |  Sheikhi   | Nobakhtian  | |
 | 9  |  8/24  |  8/26 | Basic Data Structures             | Dynamic Programming 2          | A7     |  Hosseini | Namazi     | |
 | 10 |  9/01  |  9/03 | Dynamic Array + Amortized Analysis| Basic Data Structures          | A8     |  Zeynolabedin | Rostamkhani     | |
