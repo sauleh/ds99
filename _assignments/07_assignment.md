@@ -1,6 +1,6 @@
 ---
 type: assignment
-date: 2020-11-08T4:00:00+4:30
+date: 2020-11-07T4:00:00+4:30
 title: 'Assignment #6 - Dynamic Programming 1'
 pdf: /static_files/assignments/assignment6.pdf
 attachment: /static_files/assignments/A6.zip
